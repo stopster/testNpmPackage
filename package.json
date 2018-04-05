@@ -1,0 +1,19 @@
+{
+  "name": "testnpmpackage",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stopster/testNpmPackage.git"
+  },
+  "author": "St",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stopster/testNpmPackage/issues"
+  },
+  "homepage": "https://github.com/stopster/testNpmPackage#readme"
+}
